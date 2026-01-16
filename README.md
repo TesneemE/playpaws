@@ -124,8 +124,8 @@ flutter run
 ### Full App Demo
 [![Full App Demo](https://img.youtube.com/vi/nsOtaFwXLwo/0.jpg)](https://www.youtube.com/watch?v=nsOtaFwXLwo)
 
-### Account Creation + Matching
-[![Account Creation + Matching](https://img.youtube.com/vi/jX1AUD2-MII/0.jpg)](https://www.youtube.com/watch?v=jX1AUD2-MII)
+### Create an Account + Edit Preferences
+[![Create an Account + Edit Preferences](https://img.youtube.com/vi/jX1AUD2-MII/0.jpg)](https://www.youtube.com/watch?v=jX1AUD2-MII)
 
 ### Match Page Full Card
 [![Match Page Full Card](https://img.youtube.com/vi/2_nwFiPsZOw/0.jpg)](https://www.youtube.com/watch?v=2_nwFiPsZOw)
