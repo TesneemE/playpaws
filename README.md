@@ -121,10 +121,16 @@ flutter run
 ---
 
 ## 📸 Screenshots / Demo
-
+### Full App Demo
 [![Full App Demo](https://img.youtube.com/vi/nsOtaFwXLwo/0.jpg)](https://www.youtube.com/watch?v=nsOtaFwXLwo)
+
+### Account Creation + Matching
 [![Account Creation + Matching](https://img.youtube.com/vi/jX1AUD2-MII/0.jpg)](https://www.youtube.com/watch?v=jX1AUD2-MII)
-[![Full Card Match Page](https://img.youtube.com/vi/2_nwFiPsZOw/0.jpg)](https://www.youtube.com/watch?v=2_nwFiPsZOw)
+
+### Match Page Full Card
+[![Match Page Full Card](https://img.youtube.com/vi/2_nwFiPsZOw/0.jpg)](https://www.youtube.com/watch?v=2_nwFiPsZOw)
+
+## Schedule Playdate from Messages Page
 [![Schedule Playdate from Messages Page](https://img.youtube.com/vi/BvNmceciSdQ/0.jpg)](https://www.youtube.com/watch?v=BvNmceciSdQ)
 
 ---
