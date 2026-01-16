@@ -122,11 +122,11 @@ flutter run
 
 ## 📸 Screenshots / Demo
 
-> Add screenshots or a short demo GIF here
+[![Full App Demo](https://img.youtube.com/vi/nsOtaFwXLwo/0.jpg)](https://www.youtube.com/watch?v=nsOtaFwXLwo)
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **Dinasty Kelly**
 
